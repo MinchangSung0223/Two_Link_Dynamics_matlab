@@ -8,3 +8,8 @@
 ## 2.Computed Torque Control  -- simulation_PID_control.m 파일 실행 
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/53217819/116744197-f461bf00-aa34-11eb-9d3e-adb2ca19ef90.gif)
+
+
+## 3. H infinity Control 
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/53217819/116744197-f461bf00-aa34-11eb-9d3e-adb2ca19ef90.gif)
