@@ -17,6 +17,7 @@ global l2;
 global g;
 global I1;
 global I2;
+global w;
 % Dynamic Parameters 
 m1 = 1;
 m2 = 1;
@@ -33,6 +34,6 @@ C = [ -m2*l1*l2*y(4)*sin(y(2)) , -m2*l1*l2*(y(3)+y(4))*sin(y(2)) ;
 G = [ (m1+m2)*g*l1*cos(y(1)) + m2*g*l2*cos(y(1)+y(2)) ; m2*g*l2*cos(y(1)+y(2)) ];
    
 temp1 = [y(3) ; y(4)] ;
-temp2 = M\(-C*temp1 - G + u);
+temp2 = M\(-C*temp1 - G + u+w);
 
 dydt = [y(3); y(4) ; temp2(1) ; temp2(2) ];

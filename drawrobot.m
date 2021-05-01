@@ -10,7 +10,8 @@ s12 = sin(q(1)+q(2));
 
 p1 = [l1*c1,l1*s1];
 p2 = [l1*c1+l2*c12,l1*s1+l2*s12];
-
+figure(1);
+subplot(4,2,[2 4 6 8])
 plot([0 p1(1) p2(1)],[0 p1(2) p2(2)],'k-');
 hold on;
 plot([0 p1(1) p2(1)],[0 p1(2) p2(2)],'k.',"MarkerSize",10);
