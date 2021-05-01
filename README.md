@@ -9,7 +9,12 @@
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/53217819/116744197-f461bf00-aa34-11eb-9d3e-adb2ca19ef90.gif)
 
+## 3. Computed Torque Control with Disturbance 
 
-## 3. H infinity Control 
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/53217819/116788678-f5065e00-aae5-11eb-8994-07502db0086c.gif)
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/53217819/116744197-f461bf00-aa34-11eb-9d3e-adb2ca19ef90.gif)
+## 4. H infinity Control with Disturbance 
+
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/53217819/116788682-f9327b80-aae5-11eb-925d-5223fd714aec.gif)
+
+
