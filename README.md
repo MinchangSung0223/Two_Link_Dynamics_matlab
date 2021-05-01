@@ -9,10 +9,10 @@
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/53217819/116744197-f461bf00-aa34-11eb-9d3e-adb2ca19ef90.gif)
 
-## 3. Computed Torque Control with Disturbance 
+## 3. Computed Torque Control with Disturbance -- simulation_PID_control_with_disturbance.m 파일 실행
 
 ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/53217819/116788778-94c3ec00-aae6-11eb-988f-e4475f3d704b.gif)
 
-## 4. H infinity Control with Disturbance 
+## 4. H infinity Control with Disturbance -- simulation_Hinf_control_with_disturbance.m 파일 실행
 
 ![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/53217819/116788780-97bedc80-aae6-11eb-9bff-0c8a32486158.gif)
