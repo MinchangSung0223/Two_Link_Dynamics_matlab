@@ -3,10 +3,10 @@
 %  cyj@hanyang.ac.kr
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
 close all
 home
 
+addpath("function")
 global M;
 global C;
 global G;

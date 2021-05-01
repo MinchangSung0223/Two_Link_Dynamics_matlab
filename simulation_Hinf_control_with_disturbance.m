@@ -6,7 +6,7 @@
 
 close all
 home
-
+addpath("function")
 global M;
 global C;
 global G;
